@@ -1,0 +1,5 @@
+NAME="sugar-Finance"
+VERSION=10
+RELEASE=1
+SUGAR_TYPE="honey"
+inherit sugar
